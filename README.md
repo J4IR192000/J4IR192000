@@ -1,6 +1,6 @@
 ### Hola! Soy Jair Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff1717&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+un+desarrollador+web.)](https://git.io/typing-svg)
 
 Me estoy desempeñando como programador tratando de apreder y mejorar mis habilidades tanto en el desarrollo web como en el desarrollo de software en sistemas. 
 
