@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff1717&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+un+desarrollador+web.)](https://git.io/typing-svg)
 
-Me estoy desempeñando como programador tratando de apreder y mejorar mis habilidades tanto en el desarrollo web como en el desarrollo de software en sistemas. 
+Actualmente, me desempeño como programador, enfocado en mejorar y expandir mis habilidades tanto en desarrollo web como en desarrollo de software en sistemas. 
 
-Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
+"Estoy en constante aprendizaje y estudio, con el objetivo de ampliar mi campo laboral dentro del mundo del desarrollo web."
 
 
 ## 📊 Estadísticas
