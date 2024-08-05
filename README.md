@@ -13,7 +13,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
