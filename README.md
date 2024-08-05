@@ -1,22 +1,3 @@
-### Hola! Soy Jair Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff1717&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+un+desarrollador+web.)](https://git.io/typing-svg)
-
-Actualmente, me desempeño como programador, enfocado en mejorar y expandir mis habilidades tanto en desarrollo web como en desarrollo de software en sistemas. 
-
-"Estoy en constante aprendizaje y estudio, con el objetivo de ampliar mi campo laboral dentro del mundo del desarrollo web."
-
-
-## 📊 Estadísticas
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ## 👩‍💻 Lenguajes de Programación
 
