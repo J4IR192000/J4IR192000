@@ -4,7 +4,7 @@
 
 Actualmente, me desempeño como programador, enfocado en mejorar y expandir mis habilidades tanto en desarrollo web como en desarrollo de software en sistemas. 
 
-"Estoy en constante aprendizaje y estudio, con el objetivo de ampliar mi campo laboral dentro del mundo del desarrollo web."
+"Estoy inmerso en un viaje de aprendizaje y crecimiento constante, con el objetivo de ampliar mis horizontes en el mundo del desarrollo web. Cada nuevo desafío es una oportunidad para innovar y evolucionar, acercándome a mi visión de excelencia en este apasionante campo."
 
 
 ## 📊 Estadísticas
