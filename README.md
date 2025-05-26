@@ -9,16 +9,10 @@ Actualmente, me desempeño como programador, enfocado en mejorar y expandir mis 
 
 ## 📊 Estadísticas
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=j4ir192000&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4ir192000&show_icons=true&theme=tokyonight)
+
 
 
 ## 👩‍💻 Lenguajes de Programación
