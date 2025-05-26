@@ -8,7 +8,11 @@ Actualmente, me desempeño como programador, enfocado en mejorar y expandir mis 
 
 
 ## 📊 Estadísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ir192000&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=j4ir192000&show_icons=true&theme=tokyonight)
+
 
 ## 👩‍💻 Lenguajes de Programación
 
